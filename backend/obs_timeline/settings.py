@@ -121,7 +121,7 @@ SHORT_DATETIME_FORMAT = "d/m/Y H:i:s"
 STATIC_URL = '/static/'
 
 
-# Custom stuff
+# OBS specific stuff
 
 OBS_HOST = "localhost"
 OBS_PORT = 4444
